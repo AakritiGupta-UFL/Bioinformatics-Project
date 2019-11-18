@@ -1,0 +1,8 @@
+>fasta1
+abcdsvdsfbdjhdfjhfhdvfbdvfvdfndbfhdfvdfdfhfdbdfvdsfvh
+dsfndsvnbfnbdvfbdvfdhfdfgdshfvdhffdfdfdsfsdfdsfdsfsfd
+dfdsfdsfdsfs
+>fasta2
+dfjhdjhdbvfdjvbfdvbfdjvhfdjh
+fjhdsfjdfhdgfhdgfdgfjhdsgfdh
+sfbdsbfvd
